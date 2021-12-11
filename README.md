@@ -6,5 +6,7 @@
 
 ### *For More Info ...* 
   <a href="https://g1moon.notion.site/Vanilla-Gimoon-Blog-3ffe8d48931a42969369f77da919fa05" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Notion&logoColor=white&color=grey"/>
   </a>
+  
+  
