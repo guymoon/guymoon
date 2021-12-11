@@ -1,4 +1,5 @@
 # 조기문 *Cho Gi Moon*
+### *I'm currently interested in ...*
 🧑‍💻 최근에는 FE 개발에 가장 큰 관심을 갖고 있습니다 :)
 
 ### *I'm currently focusing on ...* </br>
