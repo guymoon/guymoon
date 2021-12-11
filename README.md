@@ -1,5 +1,5 @@
 # 조기문 *Cho Gi Moon*
-🧑‍💻 FE Developer  
+### 🧑‍💻 FE Developer  
 
 ### 🍀 i'm currently interested in ... </br>
 *🧼 Clean Code* *🧪 Test Code* *💯 Vanilla JS*
