@@ -2,9 +2,6 @@
 ### *I'm currently interested in ...*
 🧑‍💻 최근에는 FE 개발에 가장 큰 관심을 갖고 있습니다 :)
 
-### *I'm currently focusing on ...* </br>
-💯 Vanilla JS  🧼 Clean Code 🧪 Test 
-
 ### *For More Info ...*
   <a href='https://g1moon.notion.site/About-FE-22e49a0accd54c529b155eedaa073aa9'>About FE 기문</a>
 ### *Blog ...*
